@@ -1,3 +1,5 @@
 print("HEllo world");
-print("Hi there")
-print("HI hi hi")
+print("Hi there");
+print("HI hi hi");
+print("Hi there");
+print("he he he");
